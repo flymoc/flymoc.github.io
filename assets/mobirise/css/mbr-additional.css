@@ -1081,6 +1081,19 @@ a {
     margin-bottom: 2rem;
   }
 }
+.cid-sEVkrwmGvL {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-sEVkrwmGvL .video-wrapper iframe {
+  width: 100%;
+}
+.cid-sEVkrwmGvL .mbr-section-title,
+.cid-sEVkrwmGvL .mbr-section-subtitle,
+.cid-sEVkrwmGvL .mbr-text {
+  text-align: center;
+}
 .cid-sERFDXPsDo {
   padding-top: 4rem;
   padding-bottom: 4rem;
